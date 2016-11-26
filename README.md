@@ -1,3 +1,3 @@
-# finacdat-engine
-Math engine oriented to Finance, Actuarial and Data Science.
-It is based on the C++ libraries finacdat-lib.
+# finact-datascience-engine
+Data Science and Math engine, oriented to Finance and Actuarial.
+It is based on the C++ libraries finact-datascience-lib.
